@@ -1,0 +1,1 @@
+//Question 1:can array be empty?is it of fix size?
